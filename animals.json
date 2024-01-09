@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Diamond Dove",
+    "description": "Diamond dove chick rescued from an anthill. This event gave the pet its name, known as Ant Pacifier.",
+    "image": "https://i.ytimg.com/vi/3rx7yGJlY9Q/maxresdefault.jpg",
+    "location": {
+      "latitude": -21.7857368,
+      "longitude": -48.2095145
+    },
+    "contact": {
+      "name": "Venilton",
+      "phone": "+55 016997288281"
+    }
+  },
+  
+  {
+    "title": "Laikinha Jr. ",
+    "description": "A puppy that was adopted and saved from going to space",
+    "image": "https://img.r7.com/images/laika-sofrimento-espaco-uniao-sovietica-30092020175459798?dimensions=771x420&no_crop=true",
+    "location": {
+      "latitude": -21.137936970944608,
+      "longitude": -48.97441054687582
+    },
+    "contact": {
+      "name": "Lara",
+      "phone": "+55 017997219281"
+    }
+  },
+
+  {
+    "title": "Cat Mary ",
+    "description": "Kitten rescued on a rainy night",
+    "image": "https://i.ytimg.com/vi/KUi0AcSB-oU/maxresdefault.jpg",
+    "location": {
+      "latitude": -21.42999411487333, 
+      "longitude":-48.515252816181494
+    }, 
+    "contact": {
+      "name": "Diego",
+      "phone": "+55 016997118171"
+    }
+  },
+
+    {
+    "title": "Snoop ",
+    "description": "A brave little dog but with a giant heart. Rescued from the streets on a cold night",
+    "image": "https://blog.petiko.com.br/wp-content/uploads/2020/08/Sem-T%C3%ADtulo-1-5.png",
+    "location": {
+      "latitude": -21.7857368,
+      "longitude": -48.2095145
+    },
+    "contact": {
+      "name": "Nakamura",
+      "phone": "+55 017897218291"
+    }
+  },
+
+  {
+    "title": "Buddy ",
+    "description": "A dog that was transported to another city because it was very mischievous. We got him back and now he is up for adoption.",
+    "image": "https://motorshow.com.br/wp-content/uploads/sites/2/2020/08/cachorro_hyunday___.jpg",
+    "location": {
+      "latitude": -21.146414933172903,
+      "longitude": -48.94617681803965
+    },
+    "contact": {
+      "name": "Renan",
+      "phone": "+55 017997218281"
+    }
+  },
+
+    {
+    "title": "Bolt ",
+    "description": "The most mischievous and fastest dog in Santa Adelia and the region",
+    "image": "https://i.pinimg.com/originals/c7/a6/d5/c7a6d5ec54cfb1a1fcb7022ef76d0409.jpg",
+    "location": {
+      "latitude": -21.245207127934144,
+      "longitude": -48.80869127345795
+    },
+    "contact": {
+      "name": "Bruno",
+      "phone": "+55 017997818281"
+    }  
+  }
+
+  
+]
