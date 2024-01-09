@@ -8,4 +8,4 @@ In this project, the database of photos of cats and dogs was used.
 
 [LICENSE](/LICENSE)
 
-See [original repository](hhttps://github.com/diegobrunoDIO).
+See [original repository](https://github.com/diegobrunoDIO).
